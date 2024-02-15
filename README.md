@@ -85,6 +85,7 @@ This will enable you to manually transfer any E.BTC or PLS balances back to your
 
 ## E-BTC URLs
 
+- Main Project URL: https://www.notyourmomsbitcoin.com
 - Contract: https://bafybeicb2hlad6zs4kc4yvn5xbbzti6krjtpoxrysg42d4e5s5oubbipum.ipfs.dweb.link/#/token/0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393?tab=holders
 - Twitter: https://twitter.com/evmBitcoin
 - Telegram: https://t.me/+AluUSMn-TVY1OTc0
