@@ -26,6 +26,7 @@ We're reaching out to the developer community to contribute to the ongoing devel
 - Implement an auto-recovery feature that enables the program to automatically retrieve the last address from the EvmBitcoinToken.log and gracefully resume operations following a crash. This will help in maintaining the continuity of the mining process without manual intervention, thus saving time and reducing potential errors.
 - Introduce a feature for the manual input of the 'Seeding' wallet's public address and private key at runtime. This update will provide users with a secure method to input sensitive information without hard-coding it into the script. By prompting users for their credentials at startup, we enhance the security of the wallet and adhere to best practices for sensitive data management.
 - Turn this code into a browser-based solution.
+- Automatically re-submit the transaction, if the program gets stuck on 'Transaction not yet confirmed, waiting...' 
 
 Your contributions will not only improve the project but also ensure a safer and more efficient experience for all users. Join us in this collaborative effort to push the boundaries.
 
