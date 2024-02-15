@@ -36,6 +36,10 @@ Your contributions will not only improve the project but also ensure a safer and
 
 ## Requirements
 
+Install Dependencies:
+- Ensure you are in the project directory where the requirements.txt file is located.
+- Run pip install -r requirements.txt to install the required Python libraries.
+
 - Python 3.8 or higher
 - `web3` Python library
 - `requests` Python library
