@@ -34,15 +34,18 @@ Your contributions will not only improve the project but also ensure a safer and
 
 - https://twitter.com/xenpub/status/1757975948614381868
 
+
 ## Requirements
 
 Install Dependencies:
 - Ensure you are in the project directory where the requirements.txt file is located.
 - Run pip install -r requirements.txt to install the required Python libraries.
 
-- Python 3.8 or higher
-- `web3` Python library
-- `requests` Python library
+The program was tested to work using these versions:
+- `Python` (3.9)
+- `web3` (6.2.0)
+- `requests` (2.28.2)
+
 
 ## Installation
 
